@@ -1,6 +1,6 @@
 # Lab 2 – CSS Flexbox, Grid, and Transitions
 
-**Name:** Supritha R  
+**Name:** Supritha Ramesha  
 **Course:** ITMD 441/541  
 **Due Date:** February 25, 2026  
 
@@ -35,3 +35,4 @@ This lab demonstrates the implementation of modern CSS layout techniques using F
 3. All styles and images should load automatically.
 
 ---
+
